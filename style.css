@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    display: flex;
+justify-content: center;
+}
+.figure{
+    width: 856px;
+    height: 856px;
+    border-radius: 856px;
+background: #E0E7F8;
+
+}
+.rec{
+    display: flex;
+width: 121px;
+padding: 10px 15px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 5px;
+background: #FFF;
+}
